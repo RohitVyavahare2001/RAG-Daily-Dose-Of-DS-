@@ -2,6 +2,9 @@
 
 This project demonstrates a Retrieval-Augmented Generation (RAG) system to query information from a PDF using AI models. It uses LangChain, Hugging Face embeddings, Qdrant vector storage, and Groq API for conversational question-answering.
 
+# Demo Video:
+https://www.youtube.com/watch?v=aho48B1psXM
+
 ## Features
 - **PDF Processing**: Extract text from PDF resumes and split into chunks.
 - **Vector Embeddings**: Generate embeddings using Hugging Face's `all-MiniLM-L6-v2`.
