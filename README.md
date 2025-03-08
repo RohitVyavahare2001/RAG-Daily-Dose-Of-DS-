@@ -83,3 +83,13 @@ Run the system:
 - **Model**: Default is Groq `qwen-2.5-32b`
 - **Embeddings**: `all-MiniLM-L6-v2` from Hugging Face
 - **Chunking**: Adjust via `RecursiveCharacterTextSplitter(chunk_size=..., chunk_overlap=...)`
+
+
+## Contributing
+Open an issue to discuss major changes before submitting PRs.
+
+## License
+Open-source. Modify as needed.
+
+## Contact
+For questions: www.linkedin.com/in/rohitvyavahare2001@gmail.com
